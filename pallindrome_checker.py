@@ -9,3 +9,4 @@ def pallindrome_checker(word):
         pallindrome_checker(word = word[1:-1])
 
 pallindrome_checker('ramakantnakamar')
+#what are you doing

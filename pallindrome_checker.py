@@ -10,3 +10,13 @@ def pallindrome_checker(word):
 
 pallindrome_checker('ramakantnakamar')
 #what are you doing
+
+def fib(a):
+    """this is a function that finds the nth element of a fibonacci series"""
+    if(a == 1):
+        return 1
+    elif(a == 2):
+        return 1
+    else:
+        return fib(a - 1) + fib(a - 2)
+    

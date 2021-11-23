@@ -1,4 +1,4 @@
-# this-is-my-first-repo ![image name](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgithub-logo%2F&psig=AOvVaw1WCvsu89FjLTd7MK5dHFKU&ust=1637782318322000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCDlN2cr_QCFQAAAAAdAAAAABAD) 
+# this-is-my-first-repo ![image name](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png) 
 ## This is my first test repository. I am learning how to use GitHub.
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
